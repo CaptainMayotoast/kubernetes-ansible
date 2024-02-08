@@ -1,0 +1,4 @@
+password_file
+venv/*
+cert-manager-creds.json
+.vscode

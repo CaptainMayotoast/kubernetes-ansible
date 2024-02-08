@@ -1,5 +1,5 @@
 kube_version: "1.26.1"
-group: "appowner"
+group: "ansible"
 container_runtime: containerd
 network: calico
 service_cidr: "10.96.0.0/12"
