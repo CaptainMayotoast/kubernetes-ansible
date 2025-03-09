@@ -34,10 +34,6 @@ Output will look like:
 
 ```bash
 ['homelabvm1', 'homelabvm2', 'homelabvm3', 'homelabvm4']
-# homelabvm1:22 SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6
-# homelabvm2:22 SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6
-# homelabvm4:22 SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6
-# homelabvm3:22 SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6
 ```
 
 

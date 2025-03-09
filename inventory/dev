@@ -1,7 +1,7 @@
 [control_planes]
-homelabvm1
+homelab-k8s-vm0
 
 [nodes]
-homelabvm2
-homelabvm3
-homelabvm4
+homelab-k8s-vm1
+homelab-k8s-vm2
+homelab-k8s-vm3

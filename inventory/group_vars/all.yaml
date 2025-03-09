@@ -1,4 +1,6 @@
-kube_version: "1.26.1"
+kube_version_major_minor: "1.32"
+kube_version: "{{ kube_version_major_minor }}.0"
+
 group: "ansible"
 container_runtime: containerd
 network: calico
